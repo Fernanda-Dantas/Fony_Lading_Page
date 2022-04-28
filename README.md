@@ -6,6 +6,12 @@
  
 # Fony - Landing Page
 
+![landing_page_gif](https://user-images.githubusercontent.com/81118959/165780479-3c2d5a0c-8d9e-4099-af5f-a98cd8ae23ad.gif)
+
+# Fony - Landing Page (Responsivo)
+
+![responsive_landing_gif](https://user-images.githubusercontent.com/81118959/165780610-e370dbb0-3df1-4bf4-86dc-5eb43886e000.gif)
+
 # Tecnologias utilizadas
 
 * HTML
