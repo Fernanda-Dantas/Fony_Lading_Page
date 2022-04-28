@@ -65,7 +65,7 @@ img {
 
 }
 
-.navbar .nav { /* pega apenas os elementos home e about */
+.navbar .nav { 
   justify-self: flex-end; 
   display: flex;
   align-items: center;
@@ -81,7 +81,7 @@ img {
   color: rgb(223, 23, 23);
 }
 
-/* Section A */ 
+
 .section-a {
   margin: 2rem 0;
 }
@@ -89,7 +89,7 @@ img {
 .section-a .container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 3rem; /* space between */
+  grid-gap: 3rem; 
   align-items: center;
   justify-content: center;
 }
@@ -103,7 +103,7 @@ img {
   margin: 1rem 0;
  }
 
- /* Section B */
+ 
  .section-b {
    position: relative;
    background: url('../imagens/ouvindo.jpg') no-repeat bottom center/cover;
@@ -137,17 +137,13 @@ img {
   margin-top: 1rem;
 }
 
-/* Section C - GALERIA */
+
 .section-c .gallery {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
 }
 
 .section-c .gallery a:first-child {
-  /* grid-row-start: 1;
-  grid-row-end: 3;
-  grid-column-start: 1;
-  grid-column-end: 3; */
   grid-row: 1/3;
   grid-column: 1/3;
 }
@@ -161,7 +157,7 @@ img {
   height: 100%;
 }
 
-/* RODAPÉ */
+
 .section-footer {
   background: var(--primary-color);
   color: #fff;
@@ -245,7 +241,7 @@ img {
   cursor: pointer;
   border-radius: 0 20px 20px 0;
 }
- /* Utilities */
+ 
  .btn {
      display: inline-block;
      background: var(--primary-color);
@@ -262,7 +258,7 @@ img {
  }
 
  .overlay {
-   position: absolute; /* within section b*/
+   position: absolute; 
    top: 0;
    left: 0;
    height: 100%;
