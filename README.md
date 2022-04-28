@@ -1,7 +1,8 @@
-# Fony_Lading_Page
+# Landing Page
 
 # Sobre
- Exemplo de Landing Page para um produto.
+ Exemplo de Landing Page para um produto. <br>
+ [Fony - Landing Page](https://exemplo-landing-page.netlify.app/)
  
 # Fony - Landing Page
 
